@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-class UserContoller extends Controller 
+abstract class Controller
 {
    
 }
